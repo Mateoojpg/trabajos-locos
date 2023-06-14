@@ -1,0 +1,6 @@
+nombre = str(input("introduce tu primer nombre -> "))
+segundo_nombre = str(input("introduce tu segundo nombre -> "))
+apellido = str(input("introduce tu primer apellido -> "))
+segundo_apellido = str(input("introduce tu segundo apellido -> "))
+print(segundo_apellido, apellido, nombre, segundo_nombre)
+print(segundo_apellido, apellido + " ," ,nombre, segundo_nombre)
